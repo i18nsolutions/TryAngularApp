@@ -1,11 +1,8 @@
 {
-  "name": "try-angular-v4",
+  "name": "try-angular-demo",
   "version": "1.0.0",
   "description": "First Web App In Heroku",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "ejs": "2.4.1",
     "express": "4.13.3",
