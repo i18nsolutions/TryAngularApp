@@ -11,6 +11,10 @@
     "body-parser": "1.17.1",
     "compression": "1.6.2"
   },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "engines": {
     "node": "6.11.0"
   },
